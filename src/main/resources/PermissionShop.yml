@@ -1,0 +1,19 @@
+############################################################
+#
+# LuckPermsShop default configuration.
+# Plugin by crysis992
+#
+############################################################
+
+example:
+  displayname: "&6Home Command"
+  icon: PAPER
+  description:
+    - '&fDiese Permission schaltet den /home Command'
+    - '&ffür dich frei.'
+    - ''
+    - '&fPreis:&2 15000'
+  price: 15000
+  permission: ct.home
+  server: global
+  world: global

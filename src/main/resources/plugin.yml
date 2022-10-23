@@ -1,0 +1,8 @@
+name: ServerManager
+main: net.crytec.AvarionCore
+version: 1.0.0
+author: crysis992
+description: Core Plugin to Manage the Server
+depend: [LuckPerms]
+softdepend: [WorldEdit, WorldGuard, Jobs, Plan]
+api-version: 1.15
